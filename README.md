@@ -8,10 +8,10 @@ C# / .NET 10, Windows Forms ve [System.Speech 10.0.0](https://www.nuget.org/pack
 
 ## Kurulum ve çalıştırma
 
-Windows, Git ve .NET 10 SDK gerekir. Visual Studio kullanıyorsan **.NET masaüstü geliştirme** iş yükünü kur. Kendi GitHub kullanıcı adını aşağıdaki komutta yerine yaz.
+Windows, Git ve .NET 10 SDK gerekir. Visual Studio kullanıyorsan **.NET masaüstü geliştirme** iş yükünü kur.
 
 ```powershell
-git clone https://github.com/GITHUB_KULLANICI_ADI/YMH219-SpeechApp.git
+git clone https://github.com/ayhamhammoud1/YMH219-SpeechApp.git
 cd YMH219-SpeechApp
 ```
 
@@ -47,4 +47,4 @@ Türkçe ve İngilizce desteği cihazda kurulu SAPI sesleri ve tanıyıcıların
 
 ## Öğrenci
 
-Ad soyad ve öğrenci numarası teslimden önce eklenecek.
+Ayham Nawaf Hammoud — 240541613
